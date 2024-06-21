@@ -1,2 +1,5 @@
 # Gpt-4o-simple-image-question-by-Node.js
-Asking a simple question with image for GPT-4o
+Asking a simple question for GPT-4o using provided API.
+
+Just add .env file where content is:
+OPENAI_API_KEY='***************************************************' // Obtain yours from https://platform.openai.com/api-keys
