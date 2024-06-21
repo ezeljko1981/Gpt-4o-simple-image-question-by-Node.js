@@ -1,0 +1,22 @@
+{
+  "name": "gpt-4o-simple-image-question",
+  "version": "1.0.0",
+  "description": "Using GPT-4o to ask a simple question about a submitted image.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GPT-4o.",
+    "image",
+    "question"
+  ],
+  "author": "Željko Eremić",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.1"
+  }
+}
